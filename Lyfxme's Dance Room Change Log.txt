@@ -20,3 +20,6 @@ Change Log
 2024/3/21 v0.0.5
 + Added remote update (currently only applies to ChangeLog)
 + Added script automatically hides unnecessary objects when they exceed a certain distance from the player.
+
+2024/3/22 v0.0.6
++ Added duration of joining the room
