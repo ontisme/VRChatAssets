@@ -9,12 +9,10 @@ Change Log
 + Added Visitor Infomation Board
 + Adjust Text / Icon
 
-2024/3/20 v0.0.3
+2024/3/20 v0.0.3 - 0.0.4
 + Remove all wall collisions
 + Added a window switch button
 + Added an external plane
-
-2024/3/20 v0.0.4
 + Added automatic screen following player feature (like pypydance)
 
 2024/3/21 v0.0.5
